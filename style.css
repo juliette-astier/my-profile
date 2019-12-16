@@ -1,0 +1,331 @@
+.ftitle{
+	font-size: 37px
+}
+
+body{
+	background-color: #DBE8E3;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+	font-size: 40px;
+	font-weight: lighter;
+	font-family: cordia new;
+	color: white;
+	color: white; text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+h2{
+	font-size: 12px;
+	font-family: ayuthaya
+}
+
+h3{
+	font-size: 32px;
+	font-weight: lighter;
+} 
+
+h4{
+	font-size: 27px;
+	text-decoration: underline;
+}
+
+h5{
+	font-size: 24px
+}
+
+h6{
+	font-size: 22px;
+	font-weight: lighter;
+	font-family: comic sans ms;
+	color: white;
+}
+
+p{
+	font-size: 22px
+}
+.em{
+	text-decoration: underline;
+	color: white;
+}
+
+.hobbies{
+	font-size: 24px;
+	font-weight: bold;
+	color: black; text-shadow: #8799B4 0.1em 0.1em 0.2em;
+}
+
+.cards{
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	background-color: #DFEAE2
+}
+
+.asso{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-left: 100px;
+	font-size: 22px;
+
+}
+
+#asso1{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-left: 280px;
+}
+#asso2{
+	text-decoration: underline;
+	font-weight: bold;
+	margin-left: 280px;
+}
+
+#tsgdf{
+	margin-left: 280px;
+}
+
+#tesn{
+	margin-left: 280px;
+}
+
+div{
+	border-top : 1px solid white;
+	border-right : 2px solid white;
+	border-bottom : 1px solid white;
+	border-left : 2px solid white;
+	border-radius: 15px;
+	padding:30px;
+	margin-right: 170px;
+	margin-left: 170px
+}
+
+.fme{
+	font-size: 32px;
+	font-family: courier, monospace;
+	color: white;
+	font-weight: bold;
+}
+
+.fmel{
+	text-decoration: none;
+	color:  white
+}
+
+.Follow{
+	border-top : 1px solid white;
+	border-right : 2px solid white;
+	border-bottom : 1px solid white;
+	border-left : 2px solid white;
+	border-radius: 50px;
+	padding:5px;
+	width: 20em;
+	box-shadow: 8px 8px 5px #444;
+	background-image: url("images1/fol.jpg")
+}
+
+a{
+	text-decoration: none;
+	color: blue
+}
+
+a:hover{
+	color:red;
+}
+
+.hobb{
+	border-top : 1px solid white;
+	border-right : 2px solid white;
+	border-bottom : 1px solid white;
+	border-left : 2px solid white;
+	border-radius: 15px;
+	padding:30px;
+	margin-right: 100px;
+	margin-left: 50px;
+	box-shadow: 7px 7px 9px grey;
+
+}
+
+.hobbv{
+	border-top : 1px solid white;
+	border-right : 2px solid white;
+	border-bottom : 1px solid white;
+	border-left : 2px solid white;
+	border-radius: 15px;
+	padding:30px;
+	margin-right: 100px;
+	margin-left: 100px;
+	background-color: #DFEAE2
+	text-shadow: #8799B4 0.1em 0.1em 0.2em;
+}
+
+#hobbv{
+ 
+}
+
+.sc{
+	color: #405D3D;
+	margin-left: 100px;
+	font-size: 19px;
+}
+
+#bac{
+	font-weight: bold;
+}
+
+.ftext{
+		font-size: 17px;
+}
+
+/*photos*/
+
+.pdp{
+	width: 150px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 77px;
+	box-shadow: 0px 10px 10px rgba(0,0,0,0.9);
+	float: center;
+}
+
+.andernos{
+	width: 277px;
+	height: 167px;
+	border: 5px solid white;
+	box-shadow: 8px 8px 5px #778B7C;
+	float: center;
+}
+
+
+
+.royan{
+	width: 277px;
+	height: 167px;
+	border: 5px solid white;
+	box-shadow: 8px 8px 5px #778B7C;
+	float: center;
+}
+
+#royan{
+	width: 200px;
+	height: 290px;
+	border: 5px solid white;
+	box-shadow: 8px 8px 5px #778B7C;
+}
+
+
+.ouistreham{
+	width: 277px;
+	height: 167px;
+	border: 5px solid white;
+	box-shadow: 8px 8px 5px #778B7C;
+	float: center;
+}
+
+.thai{
+	width: 277px;
+	height: 167px;
+	border: 5px solid white;
+	margin: 5px;
+	box-shadow: 8px 8px 5px #778B7C;
+
+}
+
+
+.tente{
+	width: 250px;
+	height: 250px;
+	border: 5px solid white;
+}
+
+.img-esn{
+	height: 100px;
+	width: 210px ;
+	border-radius: 5px;
+	float:left;
+}
+
+.img-sgdf{
+	height: 140px;
+	width: 80px ;
+	border-radius: 5px;
+	float:left;
+	margin-left: 70px;
+}
+
+.img-emlv{
+	height: 70px;
+	width: 70px ;
+	border-radius: 5px;
+	float: left
+}
+
+.img-lycée{
+	height: 115px;
+	width: 70px ;
+	border-radius: 5px;
+	float:left;
+}
+
+.val1{
+	width: 277px;
+	height: 167px;
+	border: 5px solid white;
+	box-shadow: 8px 8px 5px #778B7C;
+}
+
+.img-emlv1{
+	height: 100px;
+	width: 200px ;
+	border-radius: 5px;
+}
+
+.img-lyal{
+	height: 100px;
+	width: 200px ;
+	border-radius: 5px;
+	margin-left: 350px
+}
+
+
+
+.nyc2{
+	width: 277px;
+	height: 167px;
+	border: 5px solid white;
+	box-shadow: 8px 8px 5px #778B7C;
+   -webkit-transform: rotate(90deg);
+   -moz-transform: rotate(90deg);
+   -ms-transform: rotate(90deg);
+   -o-transform: rotate(90deg);
+   transform: rotate(90deg);
+}
+
+.jr{
+	height: 100px;
+	width: 100px ;
+	float:center;
+}
+
+.nat{
+	height: 100px;
+	width: 170px ;
+	border-radius: 5px;
+	float:right;
+}
+
+
+
+.bal{
+	height: 100px;
+	width: 170px ;
+	border-radius: 5px;
+	float:right;
+}
+
+.piano{
+	width: 97px;
+	height: 67px;
+	border-radius: 5px;
+	float: right;
+}
+
+
